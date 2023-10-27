@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        int variable = 5;
+        int variable = 6;
         Person p1 = new Person(); // This calls the constructor of a class, creating a new object.
         p1.name = "Lovisa"; // We can use an object's variables by writing their name followed by a dot, then the name of the variable.
         System.out.println("Person's name is " + p1.name); // We can use the variables in the same way.
